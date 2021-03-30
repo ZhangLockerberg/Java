@@ -1,3 +1,3 @@
 # Java
 Java Basics
-Initial practices in Java
+Initial practices in Java.
