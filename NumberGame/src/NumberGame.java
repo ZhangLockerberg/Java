@@ -29,4 +29,4 @@ public class NumberGame {
             System.out.println("GAME OVER. YOU LOSE. The correct number is "+ randomNumber);
         }
     }
-}
+};
