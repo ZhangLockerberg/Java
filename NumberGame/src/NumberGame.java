@@ -1,5 +1,5 @@
 import java.util.Scanner;
-Hello World
+
 public class NumberGame {
     public static void main(String [] args){
         int randomNumber = (int) (Math.random() * 100) + 1;
